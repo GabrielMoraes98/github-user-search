@@ -15,5 +15,5 @@ Este projeto é uma aplicação web que utiliza a API do GitHub para pesquisar u
 - **JavaScript**: Lógica de programação e manipulação da DOM.
 - **API do GitHub**: Fonte de dados para a aplicação.
   
-![screen-github-search](https://github.com/user-attachments/assets/094cff28-1ccb-4f91-b012-0d45cba54981)
 
+![screen-github-search](https://github.com/user-attachments/assets/5bc2d183-e605-4a84-bbd2-2300d791959e)
